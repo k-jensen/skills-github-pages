@@ -2,3 +2,7 @@ title: My Title
 author: Joe Bloggs
 description: Some description
 theme: minima
+
+plugins:
+  - jekyll-paginate
+  - jekyll-spaceship
